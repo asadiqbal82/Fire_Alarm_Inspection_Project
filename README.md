@@ -39,27 +39,27 @@ Helps manage repair work
 
 ## Database Structure (Tables)
 
-### 1. buildings
+### 1. Buildings
 
 Stores information about each building
 
-### 2. inspectors
+### 2. Inspectors
 
 Stores details of inspection technicians
 
-### 3. devices
+### 3. Devices
 
 Stores all fire safety devices in buildings
 
-### 4. inspection_schedule
+### 4. Inspection_schedule
 
 Stores inspection dates and assigned inspectors
 
-### 5. test_results
+### 5. Test_results
 
 Stores pass/fail results for each device
 
-### 6. deficiencies
+### 6. Deficiencies
 
 Stores failed devices that need repair
 
